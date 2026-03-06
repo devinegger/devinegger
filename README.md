@@ -1,3 +1,3 @@
 # Public README!
 
-This is my GitHub Public Profile... I'm going to add more later.
+This is my GitHub Public Profile... I'll add more later.
